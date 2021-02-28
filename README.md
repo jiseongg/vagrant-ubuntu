@@ -1,1 +1,1 @@
-# VagrantTemplate
+# Vagrant setup for Ubuntu
