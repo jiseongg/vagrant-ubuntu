@@ -1,0 +1,4 @@
+[submodule "vim_config"]
+	path = vim_config
+	url = https://github.com/jiseongg/vim_config
+	branch = master
